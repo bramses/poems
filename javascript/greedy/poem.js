@@ -30,3 +30,17 @@ if (/* we could only decide */ which /* was */ > import(ant))
 import(ant).then((t) => {
     console.log(t.default())
 })
+
+/* START POEM v2 */
+
+/* and to */ each (of("us"), "were", "given");
+
+one.feeling; one.thought; one.word;
+
+if (/* we knew */ what_was(most))
+    import(ant).then(() => {
+        /* we may abstain from */  seeking; /* out */ 
+        what_is(more);
+    })
+
+/* END POEM v2 */
