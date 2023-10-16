@@ -9,7 +9,7 @@ one.feeling; one.thought; one.word;
 
 if (/* only we knew */ what_was("most"))
     import(ant).then(() => {
-        /* we may abstain from */  seeking();
+        /* we would abstain from */  seeking(); /* out */
         what_will_be("more");
     })
 
