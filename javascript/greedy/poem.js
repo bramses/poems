@@ -37,10 +37,10 @@ import(ant).then((t) => {
 
 one.feeling; one.thought; one.word;
 
-if (/* we knew */ what_was(most))
+if (/* only we knew */ what_was(most))
     import(ant).then(() => {
-        /* we may abstain from */  seeking; /* out */ 
-        what_is(more);
+        /* we may abstain from */  seeking;
+        what_will_be(more);
     })
 
 /* END POEM v2 */
